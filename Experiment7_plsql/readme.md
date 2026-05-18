@@ -172,7 +172,7 @@ END;
 
   ***PROGRAM***
 
-  ~~~
+```
   DECLARE
    a NUMBER := 10;
    b NUMBER := 9;
@@ -188,10 +188,9 @@ BEGIN
       DBMS_OUTPUT.PUT_LINE('Largest of three number is ' || c);
    END IF;
 END;
-~~~
-
-**Expected Output:**  
-<img width="768" height="303" alt="image" src="https://github.com/user-attachments/assets/7c6e92d3-ca2e-4a74-b659-f3ce0aecfc63" />
+```
+***Expected Output***  
+<img width="768" height="303" alt="image" src="https://github.com/user-attachments/assets/7c6e92d3-ca2e-4a74-b659-f3ce0aecfc63"/>
 
 
 ## RESULT
