@@ -46,11 +46,13 @@ BEGIN
       DBMS_OUTPUT.PUT_LINE('Greater number is: ' || b);
    END IF;
 END;
-/
+
 ```
 
 **Expected Output:**  
-Greater number is: 80
+<img width="775" height="738" alt="image" src="https://github.com/user-attachments/assets/9fb2b93f-b45c-4bae-b927-be29d92e6cc9" />
+
+
 
 ---
 
@@ -80,7 +82,10 @@ END;
 ```
 
 **Expected Output:**  
-Sum of first 10 natural numbers is: 55
+<img width="755" height="744" alt="image" src="https://github.com/user-attachments/assets/550c6707-d5bb-42ef-b614-cd10f652d136" />
+
+
+
 
 ---
 
@@ -117,13 +122,13 @@ BEGIN
 
    DBMS_OUTPUT.PUT_LINE('Fibonacci sequence: ' || fib);
 END;
-/
+
 ~~~
 
 
 **Expected Output:**  
-n = 7  
-Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
+<img width="745" height="297" alt="image" src="https://github.com/user-attachments/assets/2af6e3df-ac11-4950-b9ee-772a3bdff16e" />
+
 
 ---
 
@@ -153,8 +158,8 @@ END;
 ~~~
 
 **Expected Output:**  
-n = 1535  
-Reversed number is 5351
+<img width="753" height="302" alt="image" src="https://github.com/user-attachments/assets/609b2437-5de5-4ebf-afc0-20a9884e1405" />
+
 
 ---
 
@@ -186,8 +191,8 @@ END;
 ~~~
 
 **Expected Output:**  
-a = 10, b = 9, c = 15  
-Largest of three number is 15
+<img width="768" height="303" alt="image" src="https://github.com/user-attachments/assets/7c6e92d3-ca2e-4a74-b659-f3ce0aecfc63" />
+
 
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
