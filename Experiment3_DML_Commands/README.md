@@ -1,6 +1,6 @@
 # Experiment 3: DML Commands
 ## Name: RAJA GOPAL V
-## Reg.no:212223240134
+## Reg.no: 212223240134
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
